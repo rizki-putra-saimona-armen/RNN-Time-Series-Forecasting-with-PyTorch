@@ -117,7 +117,7 @@ class RNN(nn.Module):
 Jalankan seluruh sel notebook secara berurutan, atau langsung via terminal:
 
 ```bash
-jupyter notebook Part_2_-_RNN_With_Pytorch_copy.ipynb
+jupyter notebook RNN_With_Pytorch.ipynb
 ```
 
 Selama training, akan tampil progress bar per epoch serta plot cost secara real-time, dengan checkpoint model otomatis tersimpan di `model/rnn/`.
